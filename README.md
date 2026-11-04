@@ -16,7 +16,7 @@ Métriques suivies : précision@5, rappel@5, hit rate@5 et temps d’inférence.
 
 ## Lancer le notebook
 
-- Dans Google Colab : [ouvrir le notebook](https://colab.research.google.com/github/Salome2601/ProjetIA_mlflow_dagshub_2026/blob/main/projet_ia_mlflow.ipynb), puis *Exécution › Tout exécuter* et autoriser DagsHub.
+- Dans Google Colab : [ouvrir le notebook](https://colab.research.google.com/github/Salome2601/ProjetIA_mlflow_dagshub_2026/blob/main/projet_ia_mlflow.ipynb), puis *Exécution › Tout exécuter* et coller son jeton DagsHub (https://dagshub.com/user/settings/tokens) quand la cellule « Connexion à DagsHub » le demande.
 - En local : `pip install -r requirements.txt`, puis ouvrir `projet_ia_mlflow.ipynb`.
 
 ## Interface MLflow
